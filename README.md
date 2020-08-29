@@ -1,2 +1,2 @@
-# theme2
+# theme
 my custom discord theme
