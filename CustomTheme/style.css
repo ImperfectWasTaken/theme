@@ -169,8 +169,17 @@
 	animation: zoom .5s;
 }
 
+.profileBadge-2BqF-Z {
+	background-repeat: no-repeat;
+}
 
-/**{cursor: url("http://www.rw-designer.com/cursor-download.php?id=29540"), auto !important;}*/
+[aria-label="Send a gift"] {
+	display: none;
+}
+
+[aria-label="Open GIF picker"] {
+	display: none;
+}
 
 @-webkit-keyframes itwentwoosh {
 	0% {
@@ -194,24 +203,10 @@
 }
 
 
-/* ___________________________________________________*/
-
-.profileBadge-2BqF-Z {
-	background-repeat: no-repeat;
-}
-
-[aria-label="Send a gift"] {
-	display: none;
-}
-
-[aria-label="Open GIF picker"] {
-	display: none;
-}
-
+/**{cursor: url("http://www.rw-designer.com/cursor-download.php?id=29540"), auto !important;}*/
 
 /*https://cdn.discordapp.com/attachments/694165904287727616/747637009530486784/yes.png
 https://steamuserimages-a.akamaihd.net/ugc/966473053143062381/C0C0C893927A3F5E5603F7EE520B90F88AA1E6BA/
-background-image: linear-gradient(black, #a989ff);
 https://media1.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif
 https://i.pinimg.com/originals/61/f7/26/61f72694a5d750f3be692c6e6d73c4d3.gif
 https://i.pinimg.com/originals/ac/e3/77/ace3779b91a03b533656395ac969ab0a.jpg*/
