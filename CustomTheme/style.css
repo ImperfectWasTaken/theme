@@ -41,6 +41,16 @@
 	left: -200px;
 }
 
+.marginBottom20-32qID7 + div > .viewBody-2Qz-jg{
+    filter: blur(10px);
+    transition: .2s;
+}
+
+.marginBottom20-32qID7 + div > .viewBody-2Qz-jg:hover{
+    filter: blur(0px);
+    transition: .2s;
+}
+
 .titleBar-AC4pGV {
 	background-color: transparent;
 }
