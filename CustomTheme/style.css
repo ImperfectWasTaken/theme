@@ -48,6 +48,16 @@
 	background-color: transparent;
 }
 
+.lookInverted-2D7oAl.colorGreen-29iAKY {
+    color: #d6dedb;
+    background-color: #00000082;
+}
+
+.lookInverted-2D7oAl.colorGreen-29iAKY:hover {
+    color: #00000082;
+    background-color: #d6dedb;
+}
+
 .userInfoSectionHeader-CBvMDh {
 	text-shadow: 0 0 8px #FFFFFF;
 	color: white;
