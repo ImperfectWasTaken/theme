@@ -100,6 +100,29 @@
     transition: .2s;
 }
 
+#app-mount .icon-1_QxNX {
+    color: white;
+}
+
+#app-mount .cozy-3raOZG .messageContent-2qWWxC {
+    font-size: 14px;
+}
+
+.wrapper-1ucjTd.modeSelected-1zApJ_ {
+    background: url("https://www.tynker.com/minecraft/api/block?id=572788a951684f5b5e8b4589&w=400&h=400&width=400&height=400&mode=contain&format=jpg&quality=75&cache=max&v=1462208681");
+    opacity: 0.8;
+    background-size: 70px;
+}
+
+#app-mount .wrapper-1ucjTd:hover .content-3at_AU {
+    background: url("https://2.bp.blogspot.com/-bSA9uShdeP0/VhJA4KlQ41I/AAAAAAAAARE/8RaPNl_kPl4/s1600/Block%2Bof%2BWood%2B1.png");
+    background-size: 70px;
+}
+
+.modeSelected-1zApJ_ .content-3at_AU, .modeSelected-1zApJ_:hover .content-3at_AU {
+    background-color: rgba(255, 255, 255, 0);
+}
+
 .titleBar-AC4pGV {
 	background-color: transparent;
 }
