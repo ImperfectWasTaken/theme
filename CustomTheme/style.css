@@ -340,10 +340,7 @@
     background: none;
 }
 .scrollableContainer-2NUZem {
-    background: url("https://3.bp.blogspot.com/-i4ig21EjOq8/VhJA4Ac6tEI/AAAAAAAAARA/XMbJg5iixHI/s1600/Block%2Bof%2BCobblestone%2B1.png");
-    background-size: 80px;
-    box-shadow: 0 0 3px white;
-    border-color: white;
+    background: background: rgba(18, 18, 18, 0.1);
 }
 
 .theme-dark .children-19S4PO:after {
