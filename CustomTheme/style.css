@@ -264,6 +264,106 @@
 .profileBadge-2BqF-Z {
 	background-repeat: no-repeat;
 }
+.expandedFolderBackground-2sPsd- {
+  background-color: transparent;
+}
+
+.folder-21wGz3 {
+    background-color: grey;
+}
+
+.wrapper-1Rf91z, .sidebarRegionScroller-3MXcoP, .contentRegion-3nDuYy, .standardSidebarView-3F1I7i, .contentRegionScroller-26nc1e, .scrollerBase-289Jih {
+    background-color:  transparent !important;
+}
+
+.ace_editor {
+    background: url("https://lh3.googleusercontent.com/lwZZl-2dr7iKcwhnDX-UVNAfp9FBXF6tZhoaQYUvCdjJNGUG0OHyl8_l1yKBalM0nh9C52yktqLYz0pGcyuGXg=s400");
+    background-size: 180px;
+}
+
+.contentRegion-3nDuYy #bd-customcss-attach-controls,
+#bd-customcss-detach-container #bd-customcss-attach-controls {
+    background: url("https://lh3.googleusercontent.com/lwZZl-2dr7iKcwhnDX-UVNAfp9FBXF6tZhoaQYUvCdjJNGUG0OHyl8_l1yKBalM0nh9C52yktqLYz0pGcyuGXg=s400");
+    background-size: 180px;
+    box-shadow: none;
+}
+
+.standardSidebarView-3F1I7i #bd-customcss-attach-controls button,
+.bd-detached-css-editor #bd-customcss-attach-controls button {
+    background: url("https://i.pinimg.com/originals/f1/49/d7/f149d75b54049fb56a2fc297c2ef3101.gif");
+    background-size: 80px;
+}
+
+#bd-customcss-attach-controls .help-text .inline {
+    background: none;
+}
+
+.cardPrimary-1Hv-to {
+    background: url("https://lh3.googleusercontent.com/lwZZl-2dr7iKcwhnDX-UVNAfp9FBXF6tZhoaQYUvCdjJNGUG0OHyl8_l1yKBalM0nh9C52yktqLYz0pGcyuGXg=s400");
+    background-size: 160px;
+}
+
+.cardPrimary-1Hv-to, .cardPrimaryEditable-3KtE4g {
+    padding: 100px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px white;
+}
+
+.ace_gutter-layer {
+    background: none;
+    color: white;
+}
+
+.ace-monokai .ace_gutter {
+    background: #4c504000;
+}
+
+.ace_scrollbar, .ace_scrollbar-h, .ace_scrollbar-inner {
+    background: none;
+    color: red;
+    
+}
+
+.scrollerContent-WzeG7R, .scrollerInner-2YIMLh {
+    background: none;
+}
+.chat-3bRxxu {
+    background: none;
+}
+.container-1r6BKw.themed-ANHk51 {
+    background: #36393f00;
+}
+#app-data .theme-dark .children-19S4PO:after {
+    background: none;
+}
+.scrollableContainer-2NUZem {
+    background: url("https://3.bp.blogspot.com/-i4ig21EjOq8/VhJA4Ac6tEI/AAAAAAAAARA/XMbJg5iixHI/s1600/Block%2Bof%2BCobblestone%2B1.png");
+    background-size: 150px;
+    box-shadow: 0 0 3px white;
+    border-color: white;
+}
+
+#app-data .attachButtonPlus-jWVFah {
+    fill: white;
+}
+
+.textArea-12jD-V::placeholder {
+    color: white;
+    font-size: 14px;
+}
+
+.textArea-12jD-V {
+    color: white;
+}
+
+.theme-dark .form-2fGMdU:before {
+    display: none;
+}
+
+.embedFull-2tM8-- {
+    background: url("https://2.bp.blogspot.com/-bSA9uShdeP0/VhJA4KlQ41I/AAAAAAAAARE/8RaPNl_kPl4/s1600/Block%2Bof%2BWood%2B1.png");
+    background-size: 120px;
+}
 
 [aria-label="Send a gift"] {
 	display: none;
