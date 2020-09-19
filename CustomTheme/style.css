@@ -299,8 +299,17 @@
 }
 
 .cardPrimary-1Hv-to {
-    background: url("https://lh3.googleusercontent.com/lwZZl-2dr7iKcwhnDX-UVNAfp9FBXF6tZhoaQYUvCdjJNGUG0OHyl8_l1yKBalM0nh9C52yktqLYz0pGcyuGXg=s400");
-    background-size: 160px;
+  background-image: url('http://charliecowan.co.uk/mcbuttongenerator/button_center.png');
+  background-repeat: repeat;
+  padding: 0;
+  color: white;
+  text-shadow: 3px 3px #4C4C4C;
+  border-bottom: 4px solid #565656;
+  border-right: 2px solid #565656;
+  border-left: 2px solid #AAA;
+  border-top: 2px solid #AAA;
+  border-radius: 1px;
+  font-size: 28px;
 }
 
 .ace_gutter-layer {
