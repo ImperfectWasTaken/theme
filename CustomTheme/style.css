@@ -380,14 +380,6 @@
     background-size: 120px;
 }
 
-[aria-label="Send a gift"] {
-	display: none;
-}
-
-[aria-label="Open GIF picker"] {
-	display: none;
-}
-
 @-webkit-keyframes itwentwoosh {
 	0% {
 		box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
