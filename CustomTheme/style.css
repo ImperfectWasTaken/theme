@@ -282,27 +282,6 @@
     background-color:  transparent !important;
 }
 
-.ace_editor {
-    background: url("https://lh3.googleusercontent.com/lwZZl-2dr7iKcwhnDX-UVNAfp9FBXF6tZhoaQYUvCdjJNGUG0OHyl8_l1yKBalM0nh9C52yktqLYz0pGcyuGXg=s400");
-    background-size: 180px;
-}
-
-.contentRegion-3nDuYy #bd-customcss-attach-controls,
-#bd-customcss-detach-container #bd-customcss-attach-controls {
-    background: url("https://lh3.googleusercontent.com/lwZZl-2dr7iKcwhnDX-UVNAfp9FBXF6tZhoaQYUvCdjJNGUG0OHyl8_l1yKBalM0nh9C52yktqLYz0pGcyuGXg=s400");
-    background-size: 180px;
-    box-shadow: none;
-}
-
-.standardSidebarView-3F1I7i #bd-customcss-attach-controls button,
-.bd-detached-css-editor #bd-customcss-attach-controls button {
-    background: url("https://i.pinimg.com/originals/f1/49/d7/f149d75b54049fb56a2fc297c2ef3101.gif");
-    background-size: 80px;
-}
-
-#bd-customcss-attach-controls .help-text .inline {
-    background: none;
-}
 
 .cardPrimary-1Hv-to {
   background: url("http://charliecowan.co.uk/mcbuttongenerator/button_center.png");
