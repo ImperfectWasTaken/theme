@@ -364,6 +364,7 @@
 .textArea-12jD-V::placeholder {
     color: white;
     font-size: 14px;
+    opacity: 0.4;
 }
 
 .textArea-12jD-V {
