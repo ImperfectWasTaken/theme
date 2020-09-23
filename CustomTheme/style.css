@@ -1,13 +1,14 @@
 @import url("https://fontlibrary.org/face/minecraftia");
 
 ::-webkit-input-placeholder, body, button, input, select, textarea {
-    font-family: 'MinecraftiaRegular';
-    font-size: 10px ;
+  font-family: 'MinecraftiaRegular';
+  font-size: 10px;
 }
+
 #app-mount,
 .container-16j22k,
 .perksModalContentWrapper-2HU6uL {
-	background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ae1c281-ed89-448d-871b-a2e351a6ba6f/d3l1qoj-f1b1c676-9602-4c65-bd7d-ea518fbc8b88.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOGFlMWMyODEtZWQ4OS00NDhkLTg3MWItYTJlMzUxYTZiYTZmXC9kM2wxcW9qLWYxYjFjNjc2LTk2MDItNGM2NS1iZDdkLWVhNTE4ZmJjOGI4OC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QNzMMfe4aolg5Nm8e0kEQycsjnCMejBHmgwYWhvNxTw");
+  background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ae1c281-ed89-448d-871b-a2e351a6ba6f/d3l1qoj-f1b1c676-9602-4c65-bd7d-ea518fbc8b88.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOGFlMWMyODEtZWQ4OS00NDhkLTg3MWItYTJlMzUxYTZiYTZmXC9kM2wxcW9qLWYxYjFjNjc2LTk2MDItNGM2NS1iZDdkLWVhNTE4ZmJjOGI4OC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QNzMMfe4aolg5Nm8e0kEQycsjnCMejBHmgwYWhvNxTw");
 }
 
 #app-mount .app-2rEoOp, 
@@ -16,11 +17,11 @@
 .container-2lgZY8,
 #app-mount .layer-3QrUeG,
 .bg-h5JY_x {
-	background-color: transparent;
+  background-color: transparent;
 }
 
 .titleBar-AC4pGV {
-	background-color: transparent;
+  background-color: transparent;
 }
 
 .container-PNkimc,
@@ -29,77 +30,76 @@
 .scrollableContainer-38zsVD,
 .channels-Ie2l6A,
 .panels-j1Uci_ {
-	background-color: transparent;
+  background-color: transparent;
 }
-
 
 .contentConnectedVoice-qL-YrL:active, 
 .contentHoveredText-2D9B-x, 
 .contentHoveredVoice-3p_NEO:active, 
 .contentSelectedVoice-1WDIBM:active {
-	background-color: transparent;
+  background-color: transparent;
 }
 
 #app-mount .icon-1_QxNX {
-    color: white;
+  color: white;
 }
 
 .size14-e6ZScH {
-    font-size: 11px;
+  font-size: 11px;
 }
 
 .theme-dark .headerNormal-T_seeN,
 .theme-dark .footer-1fjuF6,
 .theme-dark .body-3iLsc4 {
-	background: none;
+  background: none;
 }
 
 .headerTextNormal-2mGWX3 {
-	text-shadow: 0 0 8px #FFFFFF;
+  text-shadow: 0 0 8px #FFFFFF;
 }
 
 .profileBadge-2BqF-Z {
-	background-repeat: no-repeat;
-	color: white;
+  background-repeat: no-repeat;
+  color: white;
 }
 
 .topSectionNormal-2-vo2m .discriminator-xUhQkU {
-	color: #ffffff;
-	opacity: 1;
+  color: #ffffff;
+  opacity: 1;
 }
 
 .discriminator-xUhQkU {
-	font-size: 14px;
-	color: #fff;
-	opacity: 1;
+  font-size: 14px;
+  color: #fff;
+  opacity: 1;
 }
 
 .input-cIJ7To {
-	color: #FFFFFF !important;
+  color: #FFFFFF !important;
 }
 
 .activityName-1IaRLn,
 .nameNormal-2lqVQK,
 .nameWrap-3Z4G_9 {
-	left: -200px;
+  left: -200px;
 }
 
-.marginBottom20-32qID7 + div > .viewBody-2Qz-jg{
-    filter: blur(10px);
-    transition: .2s;
+.marginBottom20-32qID7 + div > .viewBody-2Qz-jg {
+  filter: blur(10px);
+  transition: .2s;
 }
 
-.marginBottom20-32qID7 + div > .viewBody-2Qz-jg:hover{
-    filter: blur(0px);
-    transition: .2s;
+.marginBottom20-32qID7 + div > .viewBody-2Qz-jg:hover {
+  filter: blur(0px);
+  transition: .2s;
 }
 
 #app-mount .icon-1_QxNX {
-    color: white;
+  color: white;
 }
 
 #app-mount .cozy-3raOZG .messageContent-2qWWxC {
-    font-size: 14px;
+  font-size: 14px;
 }
 
 .wrapper-1ucjTd.modeSelected-1zApJ_ {
@@ -124,117 +124,116 @@
   font-size: 4px;
 }
 
-
 .modeSelected-1zApJ_ .content-3at_AU, .modeSelected-1zApJ_:hover .content-3at_AU {
-    background-color: rgba(255, 255, 255, 0);
+  background-color: rgba(255, 255, 255, 0);
 }
 
 .titleBar-AC4pGV {
-	background-color: transparent;
+  background-color: transparent;
 }
 
 .lookInverted-2D7oAl.colorGreen-29iAKY {
-    color: #d6dedb;
-    background-color: #00000082;
+  color: #d6dedb;
+  background-color: #00000082;
 }
 
 .lookInverted-2D7oAl.colorGreen-29iAKY:hover {
-    color: #00000082;
-    background-color: #d6dedb;
+  color: #00000082;
+  background-color: #d6dedb;
 }
 
 .userInfoSectionHeader-CBvMDh {
-	text-shadow: 0 0 8px #FFFFFF;
-	color: white;
+  text-shadow: 0 0 8px #FFFFFF;
+  color: white;
 }
 
 .input-cIJ7To::placeholder {
-	color: white;
-	opacity: 0.6;
+  color: white;
+  opacity: 0.6;
 }
 
 .typing-2GQL18 {
-	animation: zoom .5s;
+  animation: zoom .5s;
 }
 
 .nameNormal-2lqVQK {
-	left: 20px;
+  left: 20px;
 }
 
 .topSectionNormal-2-vo2m .activityHeader-1PExlk,
 .topSectionNormal-2-vo2m .customStatusText-39gdCI {
-	color: #FFFFFF;
-	text-shadow: 0 0 12px #FFFFFF;
+  color: #FFFFFF;
+  text-shadow: 0 0 12px #FFFFFF;
 }
 
 .userInfoSection-2acyCx+.userInfoSection-2acyCx {
-	border-top: 1px solid transparent;
+  border-top: 1px solid transparent;
 }
 
 .lookFilled-1Gx00P,
 .colorGreen-29iAKY:hover {
-	background-color: #33ce87;
-	mix-blend-mode: luminosity;
+  background-color: #33ce87;
+  mix-blend-mode: luminosity;
 }
 
 .lookFilled-1Gx00P.colorGreen-29iAKY {
-	color: white;
+  color: white;
 }
 
 .topSectionNormal-2-vo2m .tabBarContainer-1s1u-z {
-	border-top-color: transparent;
+  border-top-color: transparent;
 }
 
 .protip-YaFfgO {
-	color: #ffffff;
+  color: #ffffff;
 }
 
 .inputDefault-_djjkz {
-	color: #FFFFFF;
+  color: #FFFFFF;
 }
 
 .bodyTitle-Y0qMQz {
-	color: #ffffff;
-	text-shadow: 0 0 13px #FFFFFF;
+  color: #ffffff;
+  text-shadow: 0 0 13px #FFFFFF;
 }
 
 .input-cIJ7To {
-	color: #FFFFFF var(--text-normal);
+  color: #FFFFFF var(--text-normal);
 }
 
 .theme-dark .actionButton-VzECiy {
-	border-color: #cecece;
-	color: #FFFFFF;
+  border-color: #cecece;
+  color: #FFFFFF;
 }
 
 .connectedAccount-36nQx7 {
-	border-color: transparent;
+  border-color: transparent;
 }
 
 .textarea-2r0oV8:focus {
-	background-color: transparent;
+  background-color: transparent;
 }
 
 .userPopout-3XzG_A {
-	display: block !important;
-	box-shadow: 0 0 15px Black;
-	background-size: cover;
-	background-position: center;
-	background: url(https://media1.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif) center/cover no-repeat;
+  display: block !important;
+  box-shadow: 0 0 15px Black;
+  background-size: cover;
+  background-position: center;
+  background: url(https://media1.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif) center/cover no-repeat;
 }
 
 .topSectionNormal-2-vo2m,
 .tabBarContainer-1s1u-z {
-	border-top-color: transparent;
-	border-top: 1px solid transparent;
+  border-top-color: transparent;
+  border-top: 1px solid transparent;
 }
 
 .activityUserPopout-2yItg2 {
-	background: transparent;
+  background: transparent;
 }
 
 .headerFill-adLl4x {
-	background-color: rgba(255, 255, 255, 0);
+  background-color: rgba(255, 255, 255, 0);
 }
 
 .headerXbox-3G-4PF,
@@ -245,63 +244,64 @@
 .headerSpotify-zpWxgT,
 .topSectionStreaming-1Tpf5X,
 .topSectionPlaying-1J5E4n {
-	background: transparent;
+  background: transparent;
 }
 
 .textarea-2r0oV8 .inputDefault-_djjkz .input-cIJ7To {
-	background: white;
-	color: white;
+  background: white;
+  color: white;
 }
 
 .userPopout-3XzG_A .wrapper-3t9DeA {
-	z-index: 1;
+  z-index: 1;
 }
 
 .theme-dark .topSectionNormal-2-vo2m,
 .theme-dark .body-3ND3kc {
-	background: none;
+  background: none;
 }
 
 .root-SR8cQa {
-	background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(https://free4kwallpapers.com/uploads/originals/2020/05/06/-halo-infinite-wallpaper.jpg) center/cover no-repeat;
-	animation: zoom .5s;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9)), url(https://free4kwallpapers.com/uploads/originals/2020/05/06/-halo-infinite-wallpaper.jpg) center/cover no-repeat;
+  animation: zoom .5s;
 }
 
 .profileBadge-2BqF-Z {
-	background-repeat: no-repeat;
+  background-repeat: no-repeat;
 }
+
 .expandedFolderBackground-2sPsd- {
   background-color: transparent;
 }
 
 .folder-21wGz3 {
-    background-color: grey;
+  background-color: grey;
 }
 
 .wrapper-1Rf91z, .sidebarRegionScroller-3MXcoP, .contentRegion-3nDuYy, .standardSidebarView-3F1I7i, .contentRegionScroller-26nc1e, .scrollerBase-289Jih {
-    background-color:  transparent !important;
+  background-color: transparent !important;
 }
 
 .ace_editor {
-    background: url("https://lh3.googleusercontent.com/lwZZl-2dr7iKcwhnDX-UVNAfp9FBXF6tZhoaQYUvCdjJNGUG0OHyl8_l1yKBalM0nh9C52yktqLYz0pGcyuGXg=s400");
-    background-size: 180px;
+  background: url("https://lh3.googleusercontent.com/lwZZl-2dr7iKcwhnDX-UVNAfp9FBXF6tZhoaQYUvCdjJNGUG0OHyl8_l1yKBalM0nh9C52yktqLYz0pGcyuGXg=s400");
+  background-size: 180px;
 }
 
 .contentRegion-3nDuYy #bd-customcss-attach-controls,
 #bd-customcss-detach-container #bd-customcss-attach-controls {
-    background: url("https://lh3.googleusercontent.com/lwZZl-2dr7iKcwhnDX-UVNAfp9FBXF6tZhoaQYUvCdjJNGUG0OHyl8_l1yKBalM0nh9C52yktqLYz0pGcyuGXg=s400");
-    background-size: 180px;
-    box-shadow: none;
+  background: url("https://lh3.googleusercontent.com/lwZZl-2dr7iKcwhnDX-UVNAfp9FBXF6tZhoaQYUvCdjJNGUG0OHyl8_l1yKBalM0nh9C52yktqLYz0pGcyuGXg=s400");
+  background-size: 180px;
+  box-shadow: none;
 }
 
 .standardSidebarView-3F1I7i #bd-customcss-attach-controls button,
 .bd-detached-css-editor #bd-customcss-attach-controls button {
-    background: url("https://i.pinimg.com/originals/f1/49/d7/f149d75b54049fb56a2fc297c2ef3101.gif");
-    background-size: 80px;
+  background: url("https://i.pinimg.com/originals/f1/49/d7/f149d75b54049fb56a2fc297c2ef3101.gif");
+  background-size: 80px;
 }
 
 #bd-customcss-attach-controls .help-text .inline {
-    background: none;
+  background: none;
 }
 
 .cardPrimary-1Hv-to {
@@ -319,92 +319,90 @@
 }
 
 .ace_gutter-layer {
-    background: none;
-    color: white;
+  background: none;
+  color: white;
 }
 
 .ace-monokai .ace_gutter {
-    background: #4c504000;
+  background: #4c504000;
 }
 
 .ace_scrollbar, .ace_scrollbar-h, .ace_scrollbar-inner {
-    background: none;
-    color: red;
-    
+  background: none;
+  color: red;
 }
 
 .scrollerContent-WzeG7R, .scrollerInner-2YIMLh {
-    background: none;
+  background: none;
 }
+
 .chat-3bRxxu {
-    background: none;
+  background: none;
 }
+
 .container-1r6BKw.themed-ANHk51 {
-    background: #36393f00;
+  background: #36393f00;
 }
+
 #app-data .theme-dark .children-19S4PO:after {
-    background: none;
+  background: none;
 }
+
 .scrollableContainer-2NUZem {
-    background: background: rgba(18, 18, 18, 0.1);
+  background: background: rgba(18, 18, 18, 0.1);
 }
 
 .theme-dark .children-19S4PO:after {
-    background: none;
+  background: none;
 }
 
 .attachButtonPlus-jWVFah {
-    fill: #FFF;
+  fill: #FFF;
 }
 
 #app-data .attachButtonPlus-jWVFah {
-    fill: white;
+  fill: white;
 }
 
 .textArea-12jD-V::placeholder {
-    color: white;
-    font-size: 14px;
-    opacity: 0.4;
+  color: white;
+  font-size: 14px;
+  opacity: 0.4;
 }
 
 .textArea-12jD-V {
-    color: white;
+  color: white;
 }
 
 .theme-dark .form-2fGMdU:before {
-    display: none;
+  display: none;
 }
 
 .embedFull-2tM8-- {
-    background: url("https://2.bp.blogspot.com/-bSA9uShdeP0/VhJA4KlQ41I/AAAAAAAAARE/8RaPNl_kPl4/s1600/Block%2Bof%2BWood%2B1.png");
-    background-size: 120px;
+  background: url("https://2.bp.blogspot.com/-bSA9uShdeP0/VhJA4KlQ41I/AAAAAAAAARE/8RaPNl_kPl4/s1600/Block%2Bof%2BWood%2B1.png");
+  background-size: 120px;
 }
 
 @-webkit-keyframes itwentwoosh {
-	0% {
-		box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
-	}
-	70% {
-		box-shadow: 0 0 0 2px rgba(255, 255, 255, 1);
-	}
-	100% {
-		box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
-	}
+  0% {
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+  }
+
+  70% {
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 1);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+  }
 }
 
 @keyframes zoom {
-	0% {
-		transform: scale(0);
-	}
-	100% {
-		transform: scale(1);
-	}
+  0% {
+    transform: scale(0);
+  }
+
+  100% {
+    transform: scale(1);
+  }
 }
-
-/**{cursor: url("http://www.rw-designer.com/cursor-download.php?id=29540"), auto !important;}*/
-
-/*https://cdn.discordapp.com/attachments/694165904287727616/747637009530486784/yes.png
-https://steamuserimages-a.akamaihd.net/ugc/966473053143062381/C0C0C893927A3F5E5603F7EE520B90F88AA1E6BA/
-https://media1.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif
-https://i.pinimg.com/originals/61/f7/26/61f72694a5d750f3be692c6e6d73c4d3.gif
-https://i.pinimg.com/originals/ac/e3/77/ace3779b91a03b533656395ac969ab0a.jpg*/
