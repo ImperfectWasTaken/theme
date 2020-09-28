@@ -44,6 +44,104 @@
   color: white;
 }
 
+.marginBottom20-32qID7 .size14-e6ZScH {
+    font-size: 18px;
+}
+
+.theme-dark .userSettingsAccount-2eMFVR .viewBody-2Qz-jg {
+    font-size: 18px;
+}
+
+.formNotice-2_hHWR {
+    font-size: 11px;
+}
+
+.flexChild-faoVW3 .h5-18_1nd  {
+    color: white;
+}
+
+.content-1o0f9g {
+    background-color: #f04747;
+    color: white;
+    font-size: 10px;
+}
+
+.isUnread-3Ef-o9 .content-1o0f9g {
+    color: white;
+}
+
+.divider-JfaTT5 {
+    background-color: #f04747;
+}
+.info-WdNIDE .size14-e6ZScH {
+    font-size: 14px;
+}
+
+.attachButtonPlus-jWVFah {
+    fill: #ffffff54;
+}
+
+.wordmark-2iDDfm::after {
+  content: "Imperfect";
+  font-weight: 900;
+  font-size: 16px;
+}
+.wordmark-2iDDfm > svg {
+  display: none;
+}
+
+.modeUnread-1zpFdA .name-3_Dsmg {
+    color: #FFFFA0;
+}
+
+.avatar-1BDn8e + h2 > .username-1A8OIy::after {
+    display: inline-block;
+    height: 14px;
+    width: 14px;
+    line-height: 14px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('');
+    position: relative;
+    top: 2px;
+    margin-left: 5px;
+}
+ 
+.avatar-1BDn8e + h2 > .username-1A8OIy:hover::after {
+    border-radius: 4px;
+    width: auto;
+    background-image: none!important;
+    background-color: #0d0d0d;
+    color: #fff;
+    padding: 2px 5px;
+    top: -1px;
+    font-size: 12px;
+    animation: grow-in .2s;
+    animation-timing-function: linear;
+    transition: 
+    color .7s ease-in-out,
+    background-color .2s ease-out;
+}
+
+.avatar-1BDn8e[src*="301512451453616128"] + h2 > .username-1A8OIy::after {content: "";
+      background-image: url("https://www.pngkit.com/png/full/468-4680352_the-icon-for-fairytale-looks-like-a-crown.png");			
+      border-radius: 5px;
+      box-shadow: 0, 0, 10px white;
+}
+
+.avatar-1BDn8e[src*="301512451453616128"] + h2 > .username-1A8OIy:hover::after {
+      content: "Funny man";
+}
+
+.topSectionNormal-2-vo2m {
+    left: 14px;
+}
+
+.cozy-3raOZG .username-1A8OIy + .badges-XRnWAp, .compact-T3H92H .separator-2nZzUB + .badges-XRnWAp {
+    margin-left: 4px;
+}
+
 .size14-e6ZScH {
   font-size: 11px;
 }
@@ -402,6 +500,16 @@
     transform: scale(0);
   }
 
+  100% {
+    transform: scale(1);
+  }
+}
+
+
+@keyframes grow-in {
+  0% {
+    transform: scale(0);
+  }
   100% {
     transform: scale(1);
   }
